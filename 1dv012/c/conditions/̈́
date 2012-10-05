@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+// converts lowercase to uppercase
+main()
+{
+  char c = 'A';
+
+  printf("%d\n", sizeof(c));
+}
